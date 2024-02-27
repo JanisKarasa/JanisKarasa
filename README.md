@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Nice to meet you!
 
 
 - 🔭 I’m currently working on Web Development and Shopify Projects
